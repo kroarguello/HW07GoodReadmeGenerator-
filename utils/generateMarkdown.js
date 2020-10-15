@@ -47,4 +47,6 @@ ${response.instructions}
 
 generateMarkdown();
 
-module.exports =  generateMarkdown;
+module.exports = { 
+  generateMarkdown
+}
