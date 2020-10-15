@@ -38,7 +38,18 @@ ${response.license}
 ${response.contribution}
 
 ## Test
-${response.instructions}
+${response.instructions} \n
+
+
+![Alt text](../img/runindexjs.png?raw=true ) 
+
+![Alt text](../img/questions.png?raw=true ) 
+
+
+
+![Alt text](../img/viewReadme1.png?raw=true) 
+
+![Alt text](../img/Readme2.png?raw=true) 
 
 ## Questions
 

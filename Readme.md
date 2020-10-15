@@ -1,9 +1,9 @@
-# Readme Generator
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# jkk
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
 
-This application generate a Readme file to the Repository with the user Inputs.
+gsd
 
 
 ## Table of Contents
@@ -17,31 +17,43 @@ This application generate a Readme file to the Repository with the user Inputs.
 
 ## Instalation
 
-1.Clone the Repo --  2 . rigth click in Index.js 3. select Open in Integrated terminal 4. type npm init for get your package Json  5. type npm install for get package-lock.json  6. run the aplication node index.js
+fd
 
 
 ## Usage
 
-this aplication will give us a guide how to creater a Readme.md for our repo
+g
 
 ## License
 
-Boost
+Apache
  
 
 
 
 ## Contributing
 
-Tutors, TA, Delmy Arguello
+g
 
 ## Test
-Follow up the pictures with the intruccions for installation
+f 
+
+
+
+![Alt text](../img/runindexjs.png?raw=true ) 
+
+![Alt text](../img/questions.png?raw=true ) 
+
+
+
+![Alt text](../img/viewReadme1.png?raw=true) 
+
+![Alt text](../img/Readme2.png?raw=true) 
 
 ## Questions
 
- Email :kroarguelloadel@gmail.com   
+ Email :g   
  
- Github : https://github.com/kroarguello
+ Github : https://github.com/f
 
 
