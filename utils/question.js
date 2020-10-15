@@ -1,9 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-async function askQuestion() {
+function askQuestion() {
 
-  const response = await inquirer.prompt([
+  const response = inquirer.prompt([
     {
       type: "input",
       message: "What is the name of your Project?",
