@@ -1,11 +1,11 @@
-
-
 const fs = require('fs');
-const askQuestion = require("./utils/question");
-const generateMarkdown = require("./utils/generateMarkdown");
+
+//calling the 2 files 
+const {askQuestion} = require("./utils/question");
+const {generateMarkdown} = require("./utils/generateMarkdown");
 
 // function to write README file
-writeFileAsync('Readme.md', generateMarkdown(response));
+//writeFileAsync('Readme.md', generateMarkdown(response));
 
 
 
