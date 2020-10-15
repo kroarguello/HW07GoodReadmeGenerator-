@@ -1,7 +1,7 @@
 // function to generate markdown for README
-function generateMarkdown(response) {
+function generateMarkdown(response, badgeL) {
   return `# ${response.nameTitle}
-
+${badgeL}
   
 ## Description
 
@@ -29,6 +29,10 @@ ${response.usage}
 ## License
 
 ${response.license}
+ 
+
+
+
 ## Contributing
 
 ${response.contribution}

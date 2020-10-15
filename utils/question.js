@@ -1,5 +1,10 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const licName = ["Apache",
+"Boost",
+"BSD",
+"GNU",
+"MIT"];
 
 function askQuestion() {
 
@@ -25,12 +30,15 @@ function askQuestion() {
       name: "usage"
     },
     {
-      type: "checkbox",
+      type: "list",
       message: "What lincese do you use?",
       name: "license",
       choices: [
-        "ISC",
-        "one more"
+        licName[0],
+        licName[1],
+        licName[2],
+        licName[3],
+        licName[4]
       ]
 
     },
@@ -55,7 +63,8 @@ function askQuestion() {
       name: "useId"
     }
   ]);
-//  console.log(response);
+
+  //  console.log(response);
 }
 //askQuestion();
 
