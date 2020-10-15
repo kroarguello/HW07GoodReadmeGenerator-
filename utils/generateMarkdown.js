@@ -58,7 +58,7 @@ ${response.instructions}
   
 });
 console.log(str);  */
-generateMarkdown();
+//generateMarkdown();
 
 module.exports = {
   generateMarkdown

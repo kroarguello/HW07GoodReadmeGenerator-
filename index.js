@@ -1,4 +1,5 @@
 const fs = require('fs');
+const inquirer = require('inquirer');
 
 //calling the 2 files 
 const {askQuestion} = require("./utils/question");
