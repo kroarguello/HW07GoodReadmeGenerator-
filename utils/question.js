@@ -57,7 +57,7 @@ async function askQuestion() {
   ]);
 //  console.log(response);
 }
-askQuestion();
+//askQuestion();
 
 module.exports = {
   askQuestion
