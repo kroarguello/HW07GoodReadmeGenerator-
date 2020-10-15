@@ -3,7 +3,7 @@ const fs = require('fs');
 
 function askQuestion() {
 
-  const response = inquirer.prompt([
+  return inquirer.prompt([
     {
       type: "input",
       message: "What is the name of your Project?",

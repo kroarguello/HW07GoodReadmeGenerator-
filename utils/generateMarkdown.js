@@ -38,27 +38,13 @@ ${response.instructions}
 
 ## Questions
 
- Email :${response.email}
+ Email :${response.email}   \n 
  Github : https://github.com/${response.useId}
 
 
 `;
 }
-/*const str= generateMarkdown({
-  
-    nameTitle: 'jldkf',
-    description: 'dklf',
-    installation: 'sf',
-    usage: 'se',
-    license: [ 'ISC' ],
-    contribution: ' ss',
-    instructions: 'dsfewrt',
-    email: 'rt',
-    useId: 'd'
-  
-});
-console.log(str);  */
-//generateMarkdown();
+
 
 module.exports = {
   generateMarkdown
