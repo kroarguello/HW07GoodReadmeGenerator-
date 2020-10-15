@@ -27,7 +27,8 @@ const { generateMarkdown } = require("./utils/generateMarkdown");
 async function init() {
     try{
     const response = askQuestion();
-    const readmd = generateMarkdown(response);
+    console.log(response);
+   const readmd = generateMarkdown(response);
    await writeFileAsync("Readme.md", readmd);
    
 }
