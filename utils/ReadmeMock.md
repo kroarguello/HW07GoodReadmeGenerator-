@@ -36,15 +36,15 @@ License
 
 ## Test
 
-![Alt text](../img/runindexjs.png?raw=true "Run index.js") 
+![Alt text](utils/img/runindexjs.png?raw=true "Run index.js") 
 
-![Alt text](../img/questions.png?raw=true "User Questions") 
+![Alt text](utils/img/questions.png?raw=true "User Questions") 
 
 
 
-![Alt text](../img/viewReadme1.png?raw=true "Readme raw") 
+![Alt text](utils//img/viewReadme1.png?raw=true "Readme raw") 
 
-![Alt text](../img/Readme2.png?raw=true "Readme final") 
+![Alt text](utils/img/Readme2.png?raw=true "Readme final") 
 
 ## Questions
 ```

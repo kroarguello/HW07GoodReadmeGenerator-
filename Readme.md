@@ -1,9 +1,9 @@
-# lkfjd
+# Readme Generator
 [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   
 ## Description
 
-dfds
+This application generate a Readme file in the repository with the inputs of the user
 
 
 ## Table of Contents
@@ -17,12 +17,12 @@ dfds
 
 ## Instalation
 
-df
+Clone Repositori - Right Click  in index.js - Open in integrated terminal - run npm init  now you have  package.json - run npm install and you will get package-lock.json -- run node index.js  ---  then the aplications will make question and generated your Readme.me 
 
 
 ## Usage
 
-f
+Generate Readme
 
 ## License
 
@@ -33,27 +33,26 @@ Boost
 
 ## Contributing
 
-d
+You can colaborate with your feedbacks
 
 ## Test
-fd 
+Follow the pictures 
 
 
 
-![Alt text](../img/runindexjs.png?raw=true ) 
-
-![Alt text](../img/questions.png?raw=true ) 
-
-
-
-![Alt text](../img/viewReadme1.png?raw=true) 
-
-![Alt text](../img/Readme2.png?raw=true) 
+![Alt text](utils/img/runindexjs.png?raw=true )   
+ 
+![Alt text](utils/img/questions.png?raw=true )   
+ 
+![Alt text](utils/img/viewReadme1.png?raw=true)   
+ 
+![Alt text](utils/img/Readme2.png?raw=true)   
+ 
 
 ## Questions
 
- Email :d   
+ Email :kroarguelloadel@gmail.com   
  
- Github : https://github.com/f
+ Github : https://github.com/kroarguello
 
 

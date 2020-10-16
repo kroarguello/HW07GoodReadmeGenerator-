@@ -41,15 +41,10 @@ ${response.contribution}
 ${response.instructions} \n
 
 
-![Alt text](../img/runindexjs.png?raw=true ) 
-
-![Alt text](../img/questions.png?raw=true ) 
-
-
-
-![Alt text](../img/viewReadme1.png?raw=true) 
-
-![Alt text](../img/Readme2.png?raw=true) 
+![Alt text](utils/img/runindexjs.png?raw=true )   \n 
+![Alt text](utils/img/questions.png?raw=true )   \n 
+![Alt text](utils/img/viewReadme1.png?raw=true)   \n 
+![Alt text](utils/img/Readme2.png?raw=true)   \n 
 
 ## Questions
 
